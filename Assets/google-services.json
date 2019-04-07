@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "782675380321",
+    "firebase_url": "https://iiits-ar-lens.firebaseio.com",
+    "project_id": "iiits-ar-lens",
+    "storage_bucket": "iiits-ar-lens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782675380321:android:613f391e5b69242b",
+        "android_client_info": {
+          "package_name": "com.masterashu.abhisargaarlens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782675380321-tql9kth4fnbsbc2pjd0dkk9ae41re1vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEvc6NjFJhwZvfFy-2Sm0lnb19nLJyOJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

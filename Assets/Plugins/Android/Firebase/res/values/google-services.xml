@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://iiits-ar-lens.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">782675380321</string>
+  <string name="google_storage_bucket" translatable="false">iiits-ar-lens.appspot.com</string>
+  <string name="project_id" translatable="false">iiits-ar-lens</string>
+  <string name="google_api_key" translatable="false">AIzaSyDEvc6NjFJhwZvfFy-2Sm0lnb19nLJyOJQ</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDEvc6NjFJhwZvfFy-2Sm0lnb19nLJyOJQ</string>
+  <string name="google_app_id" translatable="false">1:782675380321:android:613f391e5b69242b</string>
+  <string name="default_web_client_id" translatable="false">782675380321-tql9kth4fnbsbc2pjd0dkk9ae41re1vl.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Meme2" size="0.150000 0.150000" />
+    <ImageTarget name="Meme3" size="0.150000 0.150000" />
+    <ImageTarget name="Meme6" size="0.150000 0.150000" />
+    <ImageTarget name="Meme4" size="0.150000 0.150000" />
+    <ImageTarget name="Meme5" size="0.150000 0.135000" />
+    <ImageTarget name="Meme7" size="0.150000 0.190678" />
+    <ImageTarget name="Meme8" size="0.150000 0.166901" />
+    <ImageTarget name="Meme9" size="0.150000 0.150000" />
+    <ImageTarget name="Meme10" size="0.150000 0.150000" />
+    <ImageTarget name="Meme11" size="0.150000 0.166901" />
+    <ImageTarget name="Meme12" size="0.150000 0.150000" />
+    <ImageTarget name="Meme13" size="0.150000 0.150000" />
+    <ImageTarget name="Meme14" size="0.150000 0.141558" />
+    <ImageTarget name="Meme15" size="0.150000 0.150000" />
+    <ImageTarget name="Meme1" size="0.150000 0.143750" />
+  </Tracking>
+</QCARConfig>
