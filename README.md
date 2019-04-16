@@ -1,1 +1,2 @@
 # Abhisarga AR Viewer
+This Application was for Abhisarga 2k19, the annual cultural fest of Indian Institute of Information Technology. It was made using UnityEngine & VuforiaEngine, and allows scanning of markers showing overlays containing memes. It also contained 4 Games(one 2-D Game, one 3-D Game, two AR Games) which launches when special markers were scanned. It also contained a Leader board which used Google Firebase API and Database.
